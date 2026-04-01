@@ -1,81 +1,50 @@
-<h1 align="center">Hi, I'm Prashant Jaybhaye 👋</h1>
+<div align="center">
+  <h1>I'm Prashant</h1>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDEzeTBxeTJ6ZDRyYmEzN3FxeGM4b2hzZWlpNW00cmxsbWs5NjUyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aqOUrkDo2fdyE/giphy.gif" width="300" />
+</div>
+
+### About
+
+I'm a Computer Science student & developer dedicated to building intelligent, user-centric applications. My work spans from **real-time AI voice agents** (using LiveKit, ElevenLabs, VAPI) to **modern full-stack platforms** and **mobile cross-platform solutions**. Passionate about leveraging AI to create seamless digital experiences.
+
+Find my complete portfolio and projects at **[iprashant.vercel.app](https://iprashant.vercel.app)**.
+
+<br/>
+
+### Tech Stack & Tools
 
 <p align="center">
-  <strong>Software Developer &nbsp;|&nbsp; AI & Web Application Builder</strong>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=plastic&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/flask-%23000000.svg?style=plastic&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=plastic&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/framer-%230055FF.svg?style=plastic&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/expo-%23000020.svg?style=plastic&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
+<br/>
+
+---
+
+### GitHub Activity Graph
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prashantjaybhaye&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views" />
-  <a href="https://github.com/PrashantJaybhaye?tab=followers">
-    <img src="https://img.shields.io/github/followers/prashantjaybhaye?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantjaybhaye&bg_color=1a1b27&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
   </a>
 </p>
 
 ---
-
-### About Me
-
-I'm a software developer focused on building intelligent, user-facing applications — from real-time AI voice agents to full-stack web and mobile platforms.
-
-- 🔭 Currently working on **AI agents** and **modern web platforms**
-- 🛠️ Core stack: **TypeScript · JavaScript · React · React Native · Flask**
-- 💬 Open to conversations on **Frontend Architecture, AI integrations, and Scalable App Design**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-00B2FF?style=flat-square&logo=webrtc&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**AI-Agent**](https://github.com/PrashantJaybhaye/AI-Agent) | Personal AI mindfulness companion with real-time voice interactions | React Native · Expo · LiveKit · ElevenLabs |
-| [**Sidvia-Interview-Agent**](https://github.com/PrashantJaybhaye/Sidvia-Interview-Agent) | Smart Interactive Digital Voice-based Interview Application | AI · Voice · TypeScript |
-| [**Homezy**](https://github.com/PrashantJaybhaye/Homezy) | Home service & repair platform connecting users with trusted professionals | React · Full-Stack |
-| [**React-Movie**](https://github.com/PrashantJaybhaye/React-Movie) | FunVerse — a modern movie discovery app | React · Vite |
-| [**Smart-Allocation-System**](https://github.com/PrashantJaybhaye/Smart-Allocation-system) | Flask-based system to automate resource allocation processes | Flask · Python |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantjaybhaye&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjaybhaye&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantjaybhaye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
----
-
-<p align="center">
-  <i>Always building. Always learning.</i>
-</p>
